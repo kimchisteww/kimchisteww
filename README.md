@@ -27,3 +27,4 @@
 username=kimchisteww&show_icons=true&locale=en" alt="kimchisteww" /></p>
 
 <p><img align="center" src="https://github-readme-streak-
+stats.herokuapp.com/?user=kimchisteww&" alt="kimchisteww" /></p>
