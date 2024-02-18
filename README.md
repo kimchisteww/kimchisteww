@@ -1,4 +1,4 @@
-![logo](https://github.com/kimchisteww/kimchisteww/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Emmanuel Gumapac</h1>
 <img align="middle" alt="Coding" width="900" src="https://media1.tenor.com/m/GudszaCjtTQAAAAC/blackpink-jiso.gif">
 
