@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Gumapac</h1>
 <h3 align="center">I like kimchi stew</h3>
 <img align="middle" alt="Coding" width="400" src="https://media1.tenor.com/m/GudszaCjtTQAAAAC/blackpink-jiso.gif">
-<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-9f0f382e655cc27fd0bb12b9276ddc9d">
+<img align="right" alt="Coding" width="250" src="https://qph.cf2.quoracdn.net/main-qimg-9f0f382e655cc27fd0bb12b9276ddc9d">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimchisteww&label=Profile%20views&color=0e75b6&style=flat" alt="kimchisteww" /> </p>
