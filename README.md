@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Gumapac</h1>
-<h3 align="center">I like kimchi stew</h3>
 <img align="middle" alt="Coding" width="900" src="https://media1.tenor.com/m/GudszaCjtTQAAAAC/blackpink-jiso.gif">
 
 
