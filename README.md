@@ -13,3 +13,6 @@
 - 📫 How to reach me **oxmkahatdog@gmail.com**
 
 - ⚡ Fun fact **I'm 😮‍💨**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
