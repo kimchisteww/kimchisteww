@@ -1,4 +1,4 @@
-![logo](https://github.com/kimchisteww/kimchisteww/blob/main/Relive%20LE%20SSERAFIM%E2%80%99s%20First%20U.S.%20Trip%20Through%20Their%20Camera%20Rolls%20%E2%80%94%20Exclusive.webp)
+![logo](https://github.com/kimchisteww/kimchisteww/blob/main/c10f31cf0789773c5bc595560815a6dd.gif)
 <h1 align="center">Hi 👋, I'm Emmanuel Gumapac</h1>
 <img align="middle" alt="Coding" width="900" src="https://media1.tenor.com/m/GudszaCjtTQAAAAC/blackpink-jiso.gif">
 
