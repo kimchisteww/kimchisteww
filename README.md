@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WwynwLsMw/ XbBpCXG8fHI/AAAAAAAAMt4/ uOa1bpLskYgrwGbllhSu2Dj_Mig8SXJQcBGAsYHQ/ s1600/ 2000_600px.gif)] (https://kimchisteww.io)
+
 <h1 align="center">Hi 👋, I'm Emmanuel Gumapac</h1>
 <h3 align="center">I like kimchi stew</h3>
 <img align=“right” alt=“Coding” width=“400” src=“http://https://media1.tenor.com/m/GudszaCjtTQAAAAC/blackpink-jiso.gif”>
